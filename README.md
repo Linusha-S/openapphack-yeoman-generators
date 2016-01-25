@@ -2,9 +2,9 @@
 
 Openapphack yoeman generators  is a list of yoeman that can be used in any of the openapphack projects
 
-List of Yoeman generators you can use in your openhack project is [here](Openapphack yoeman generators)
+List of validated Yoeman generators you can use in your openhack project is [here](Openapphack yoeman generators)
 
-# How to add yoeman generator to Yoeman generator . 
+# How to add a new yoeman generator to validated list of openapphack Yoeman generator?
 
 You will have to follow the step given below
 
