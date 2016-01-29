@@ -16,7 +16,7 @@ You will have to follow the step given below
 
 4 . Submit a pull request to [openapphack-yoeman-generators](https://github.com/WiproOpenSourcePractice/openapphack-yoeman-generators) to include your yoeman generator to the list of openapphack yoeman generators.
 
-5 . An openapphack reviewer will try out your openapphack project and include it the list of [validated openapphack-yoeman-generators](https://github.com/WiproOpenSourcePractice/openapphack-yoeman-generators/blob/master/validated-openapphack-yoeman-generators).
+5 . An openapphack reviewer will try out your openapphack project and include it the list of [validated openapphack-yoeman-generators](https://github.com/WiproOpenSourcePractice/openapphack-yoeman-generators/blob/master/validated-openapphack-yoeman-generators.md).
 
 
 
