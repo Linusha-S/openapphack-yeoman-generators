@@ -1,8 +1,8 @@
-# openapphack-yoeman-generators
+### openapphack-yoeman-generators
 
 List of validated Yoeman generators you can use in your openhack project is [here](https://github.com/WiproOpenSourcePractice/openapphack-yoeman-generators/wiki/Validated-Openapphack-Yoeman-Generators)
 
-# How to add a new yoeman generator to the validated list of openapphack Yoeman generator?
+### How to add a new yoeman generator to the validated list of openapphack Yoeman generator?
 
 You will have to follow the step given below
 
