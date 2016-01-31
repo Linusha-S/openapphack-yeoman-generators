@@ -1,6 +1,6 @@
 ### openapphack-yeoman-generators
 
-List of validated Yeoman generators you can use in your openhack project is [here](https://github.com/WiproOpenSourcePractice/openapphack-yeoman-generators/wiki/Validated-Openapphack-Yeoman-Generators)
+List of validated Yeoman generators you can use in your openapphack project is [here](https://github.com/WiproOpenSourcePractice/openapphack-yeoman-generators/wiki/Validated-Openapphack-Yeoman-Generators)
 
 ### How to add a new yeoman generator to the validated list of openapphack Yeoman generator?
 
