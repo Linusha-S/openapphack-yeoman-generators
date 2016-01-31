@@ -23,7 +23,7 @@
 
 Please note any new generator will follow generator-openapphack-{generator-name} naming convention
 
-### List of Validated Yoeman Generators :
+### List of Validated Yeoman Generators :
 
 1. 
 
